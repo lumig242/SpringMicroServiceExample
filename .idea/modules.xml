@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HolidayService/HolidayService.iml" filepath="$PROJECT_DIR$/HolidayService/HolidayService.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-trial.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-trial.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewsSearchService/newssearchservice (1).iml" filepath="$PROJECT_DIR$/NewsSearchService/newssearchservice (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/NewsSearchService2/newssearchservice (2).iml" filepath="$PROJECT_DIR$/NewsSearchService2/newssearchservice (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/WeatherService/weatherservice.iml" filepath="$PROJECT_DIR$/WeatherService/weatherservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZipcodeService/zipcodeservice.iml" filepath="$PROJECT_DIR$/ZipcodeService/zipcodeservice.iml" />
     </modules>
   </component>
 </project>

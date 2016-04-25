@@ -23,6 +23,8 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="eureka-trial" />
+        <module name="HolidayService" />
+        <module name="holidayservice" />
         <module name="newssearchservice (1)" />
         <module name="newssearchservice (2)" />
         <module name="weatherservice" />
@@ -31,6 +33,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka-trial" target="1.8" />
+      <module name="holidayservice" target="1.8" />
+      <module name="HolidayService" target="1.8" />
       <module name="newssearchservice (1)" target="1.8" />
       <module name="newssearchservice (2)" target="1.8" />
       <module name="weatherservice" target="1.8" />
