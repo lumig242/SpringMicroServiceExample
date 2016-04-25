@@ -17,26 +17,6 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="eureka-trial" />
-        <module name="HistoryOfTodayService" />
-        <module name="newssearchservice (1)" />
-        <module name="newssearchservice (2)" />
-        <module name="weatherservice" />
-        <module name="zipcodeservice" />
-      </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="eureka-trial" target="1.8" />
-      <module name="HistoryOfTodayService" target="1.8" />
-      <module name="newssearchservice (1)" target="1.8" />
-      <module name="newssearchservice (2)" target="1.8" />
-      <module name="weatherservice" target="1.8" />
-      <module name="zipcodeservice" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

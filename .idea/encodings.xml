@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/HistoryOfTodayService" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/NewsSearchService2" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WeatherService" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ZipcodeService" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka-service" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
