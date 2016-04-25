@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/eureka-service.iml" filepath="$PROJECT_DIR$/.idea/eureka-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../models/models.iml" filepath="$PROJECT_DIR$/../models/models.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../movie-service/movie-service.iml" filepath="$PROJECT_DIR$/../movie-service/movie-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-trial.iml" filepath="$PROJECT_DIR$/eureka-trial.iml" />
     </modules>
   </component>
 </project>

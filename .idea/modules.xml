@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HistoryOfTodayService/HistoryOfTodayService.iml" filepath="$PROJECT_DIR$/HistoryOfTodayService/HistoryOfTodayService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HolidayService/HolidayService.iml" filepath="$PROJECT_DIR$/HolidayService/HolidayService.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-trial.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-trial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolidayService/holidayservice.iml" filepath="$PROJECT_DIR$/HolidayService/holidayservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetExternalIPService/newssearchservice.iml" filepath="$PROJECT_DIR$/GetExternalIPService/newssearchservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/HistoryOfTodayService/newssearchservice (1).iml" filepath="$PROJECT_DIR$/HistoryOfTodayService/newssearchservice (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/NewsSearchService2/newssearchservice (2).iml" filepath="$PROJECT_DIR$/NewsSearchService2/newssearchservice (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/WeatherService/weatherservice.iml" filepath="$PROJECT_DIR$/WeatherService/weatherservice.iml" />
     </modules>
   </component>
 </project>

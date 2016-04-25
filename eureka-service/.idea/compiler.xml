@@ -22,13 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="models" />
-        <module name="movie-service" />
+        <module name="eureka-trial" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="models" target="1.8" />
-      <module name="movie-service" target="1.8" />
+      <module name="eureka-trial" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
