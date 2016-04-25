@@ -22,11 +22,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="gs-maven" />
+        <module name="eureka-trial" />
+        <module name="newssearchservice (1)" />
+        <module name="newssearchservice (2)" />
+        <module name="weatherservice" />
+        <module name="zipcodeservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gs-maven" target="1.5" />
+      <module name="eureka-trial" target="1.8" />
+      <module name="newssearchservice (1)" target="1.8" />
+      <module name="newssearchservice (2)" target="1.8" />
+      <module name="weatherservice" target="1.8" />
+      <module name="zipcodeservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
