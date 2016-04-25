@@ -3,7 +3,7 @@ server:
 
 spring:
     application:
-        name: zipcode
+        name: holiday
 eureka:
     client:
         serviceUrl:
